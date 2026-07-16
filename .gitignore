@@ -1,0 +1,28 @@
+# --- Secretos / configuracion local (NUNCA subir) ---
+.env
+*.env
+!.env.example
+
+# --- Datos (este repo solo usa datos sinteticos generados al vuelo) ---
+*.csv
+*.tsv
+*.xlsx
+*.txt
+!requirements.txt
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# --- Editor / SO ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

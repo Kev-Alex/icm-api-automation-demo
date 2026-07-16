@@ -1,0 +1,6 @@
+# El nucleo de la demo corre solo con la libreria estandar de Python (3.10+).
+# La unica dependencia externa es 'requests' para el cliente HTTP.
+requests>=2.28
+
+# Opcional: descomenta si quieres correr los tests con pytest en lugar de unittest.
+# pytest>=7.0
