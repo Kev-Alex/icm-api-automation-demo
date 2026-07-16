@@ -152,7 +152,3 @@ datos sintéticos · pruebas unitarias.
 Repositorio con fines **educativos y de portafolio**. Automatiza únicamente sistemas
 sobre los que tengas autorización explícita y respeta los términos de servicio y las
 políticas de cada plataforma.
-
-## Licencia
-
-[MIT](LICENSE).
